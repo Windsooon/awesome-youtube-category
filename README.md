@@ -12,7 +12,7 @@ List youtube category that really helpful for humans
     - React
         1. [Pewdiepie React](https://www.youtube.com/watch?v=TIq-307wiQk&list=PLYH8WvNV1YEnvURRShYIOajg3Fh3R0-Q5)
 
-- 情景剧
+- Scene drama
     1. [Friday Videos](https://www.youtube.com/playlist?list=PLShD8ZZW7qjnKyDrH_9YhAf9qv8sUgh1Y)
 
 - Gaming
