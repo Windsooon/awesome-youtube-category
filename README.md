@@ -174,3 +174,31 @@ Markiplier
 *Commentary channal or playlist on youtube*
     
 - [Greatest Hits](https://www.youtube.com/playlist?list=PLmZTDWJGfRq0g5TNY4VX12h6b3W4QSATt) - WatchMojo.com
+
+## Contribution Guidelines
+
+Please ensure your pull request adheres to the following guidelines:
+
+- Playlist > Channel > User, usually playlist have a more specific topic than channel
+- A Channel/User should not appear more than two times
+- Search previous one before making a new one, as yours may be a duplicate.
+- You can change the category name if you have better suggestion.
+- **Make an individual pull request for each suggestion.**
+- Use the following format: `[PACKAGE](LINK) - DESCRIPTION.`
+- New categories, or improvements to the existing categorization are welcome.
+- Check your spelling and grammar.
+- Make sure that your suggestion is positioned as the last item category.
+- Make sure your text editor is set to remove trailing whitespace.
+
+## Deleting 
+
+Typical reasons for deleting playlist:
+
+- No updates for more than one years.
+- Deprecated
+
+Your contributions are always welcome!  Thank you for your suggestions! :smiley:
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
