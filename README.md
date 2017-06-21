@@ -8,9 +8,14 @@ Youtebe is awesome, but the category is too ambiguous. This is a curated list of
 
 # Content
 
-- [Awesome Youtube](#awesome youtube)
+- Awesome Youtube
     - [Science](#science)
     - [Education](#education)
+    - [Unboxings/Reviews](#unboxings/reviews)
+    - [How to](#how to)
+    - [Talkshow](#talkshow)
+    - [Game](#game)
+    - [Scene drama](#scene drame)
 
 ## Science
 
