@@ -1,5 +1,6 @@
 # Youtube-category-for-humans
 
+Youtebe is awesome, but the category is too ambiguous. This is a curated list of youtube popular channel and playlist.
 
 
 ## Education
