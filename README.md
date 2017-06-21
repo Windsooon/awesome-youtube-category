@@ -197,7 +197,7 @@ Typical reasons for deleting playlist:
 - No updates for more than one years.
 - Deprecated
 
-Your contributions are always welcome!  Thank you for your suggestions! :smiley:
+Your contributions are always welcome!  Thank you for your suggestions!😀 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could vote for them by adding 👍 to them. Pull requests will be merged when their votes reach 15.
 
 ## License
 
