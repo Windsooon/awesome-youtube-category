@@ -12,6 +12,13 @@ Youtebe is awesome, but the category is too ambiguous. This is a curated list of
 *Education channal or playlist on youtube*
 
 - Design
+    - [Photoshop Basics](https://www.youtube.com/playlist?list=PL7JpMMpENaD28R-R4g1_ITGl40dk1CaIW) - PHLEARN
+    - [Speedarts](https://www.youtube.com/playlist?list=PLK4X5isn_s-BPfZ0tUBiQerFn3v-O9HGw) - Swerve Designs
+    - [Photoshop: Designing](https://www.youtube.com/playlist?list=PLC5BE7947C6ECB5B7) - Howard Pinsky
+    - [Speed Arts 2017](https://www.youtube.com/playlist?list=PLFs4TpGOZiGc4dybCrKnmdRkdFCouh0ak) - CreativeStation
+    - [⚗ Adobe Lightroom Tutorials](https://www.youtube.com/playlist?list=PLwnXQvUxjbNvdcx3WsRlMvyNXOgFtzlEI) - tutvid
+
+    
 
 - Computer
 
@@ -64,9 +71,6 @@ Youtebe is awesome, but the category is too ambiguous. This is a curated list of
     - [Awesome Games!](https://www.youtube.com/playlist?list=PL3tRBEVW0hiDAf0LeFLFH8S83JWBjvtqE)
     - [HTC Vive Virtual Reality](https://www.youtube.com/playlist?list=PLMBYlcH3smRwc3QWNL7p7rDvVysFNTrzG)
     - [Tomodachi Life | DanTDM](https://www.youtube.com/playlist?list=PLUR-PCZCUv7QET0xgNsqidm51PTx7mXZp)
-
-- Honor
-        - [All Horror Games](https://)
 
 ## Animation
 
