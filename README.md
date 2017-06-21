@@ -19,6 +19,9 @@ Youtebe is awesome, but the category is too ambiguous. This is a curated list of
     - [Smarter Every Day in Order](https://www.youtube.com/playlist?list=PLjHf9jaFs8XUXBnlkBAuRkOpUJosxJ0Vx) - SmarterEveryDay
 
 - **Computer**
+    - [Subtitled Films](https://www.youtube.com/playlist?list=PLzH6n4zXuckpXGbML1y7pHxCkMRYYoG-c) - Computerphile
+    - [CPU, Motherboard, Memory Videos](https://www.youtube.com/playlist?list=PL8mG-RkN2uTzxKz-jbEIsZDIHfz_CBGGx) - Linus Tech Tips
+    - [Computer Security / Data Integrity](https://www.youtube.com/playlist?list=PL3662BFBEA6071A4E) - Eli the Computer Guy
 
 
 - **Health**
@@ -28,7 +31,6 @@ Youtebe is awesome, but the category is too ambiguous. This is a curated list of
     - [Prime Numbers](https://www.youtube.com/playlist?list=PL0D0BD149128BB06F) - Numberphile
     - [Math Antics Geometry Video Lessons](https://www.youtube.com/playlist?list=PLUPEBWbAHUsx47fzhccfRSk4uNnBwtk7n) - mathantics
     - [Recommended](https://www.youtube.com/playlist?list=PLZHQObOWTQDPHP40bzkb0TKLRPwQGAoC-) - 3Blue1Brown
-
 
 - **Physics**
     - [MinutePhysics](https://www.youtube.com/playlist?list=PLED25F943F8D6081C) - minutephysics
@@ -48,12 +50,24 @@ Physics Girl
     - [Speed Arts 2017](https://www.youtube.com/playlist?list=PLFs4TpGOZiGc4dybCrKnmdRkdFCouh0ak) - CreativeStation
     - [⚗ Adobe Lightroom Tutorials](https://www.youtube.com/playlist?list=PLwnXQvUxjbNvdcx3WsRlMvyNXOgFtzlEI) - tutvid
 
-- **Makeup**
+- **Makeup/Appearance**
     - [Yuya](https://www.youtube.com/channel/UCBNs31xysxpAGMheg8OrngA) - Yuya
+    - [Hair Tips & Videos with HAIRFOOD](https://www.youtube.com/playlist?list=PLA8z-oagowOS8KhFNV-8yN_DsvFdiJMF0) - Howdini
 
 - **Online Course**
+    - [MIT 8.01 Classical Mechanics, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV) - MIT OpenCourseWare
     - [Khan Academy](https://www.youtube.com/user/khanacademy/playlists) - Khan Academy
+    - [ECMAScript 6 / ES6 New Features Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBhgcpA8eTYYWg7im72LgLt) - thenewboston
+    - [Data structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - mycodeschool
+    - [How to Make Video Games](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSYnwKyw9xP5tEn7GSUWwZJ) - Derek Banas
+    - [Android and Kotlin](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8ibQFkC77xUETd8BCkRbYc) - Android Developers
 
+
+## Common Sense
+
+*Common Sence channal or playlist on youtube*
+
+- [Lifehacker Originals](https://www.youtube.com/playlist?list=PLHLI_p28bKXLJLZFAonAScpiPbCPUwzSH) - Lifehacker
 
 
 ## Talkshow
@@ -104,6 +118,20 @@ Markiplier
     - [HTC Vive Virtual Reality](https://www.youtube.com/playlist?list=PLMBYlcH3smRwc3QWNL7p7rDvVysFNTrzG) - jacksepticeye
     - [Tomodachi Life | DanTDM](https://www.youtube.com/playlist?list=PLUR-PCZCUv7QET0xgNsqidm51PTx7mXZp) - DanTDM
 
+## Talent
+
+*Talent channal or playlist on youtube*
+
+- [Epic Rap Battles Of History - Complete Collection](https://www.youtube.com/playlist?list=PL96675BDF95286773) - ERB
+
+## News
+
+*News channal or playlist on youtube*
+
+- **Tech**
+    - [CNET News](https://www.youtube.com/playlist?list=PL58BB711743D884D8) - Mashable
+    - [A Cleaner Future](https://www.youtube.com/playlist?list=PLSKUhDnoJjYlDHmAhTqE9EJ6rMfi2jlPc) - Mashable
+
 ## Music
 
 *Music channal or playlist on youtube*
@@ -123,7 +151,7 @@ Markiplier
 *Sports channal or playlist on youtube*
 
 - **Fun sports**
-    - [Dude Perfect | 2016](https://www.youtube.com/playlist?list=PLCsuqbR8ZoiCCcN593ixhJ7p6OwwWltPJ) - **Dude Perfect**
+    - [Dude Perfect | 2016](https://www.youtube.com/playlist?list=PLCsuqbR8ZoiCCcN593ixhJ7p6OwwWltPJ) - Dude Perfect
     - [Football Videos](https://www.youtube.com/playlist?list=PLr2SXwjSsDgKEsO998eN2qkR86_BOoT__) - KSI
     - [WWE Extreme Rules: RELIVE only on WWE Network!](https://www.youtube.com/playlist?list=PLqIVmFaHA8BrGnqix44wB9nLoj4V87Syu) - WWE
 
@@ -133,8 +161,23 @@ Markiplier
     
 - [Greatest Hits](https://www.youtube.com/playlist?list=PLmZTDWJGfRq0g5TNY4VX12h6b3W4QSATt) - WatchMojo.com
 
-## Talent
+## Unboxings/Reviews
 
-*Talent channal or playlist on youtube*
+*Unboxings channal or playlist on youtube*
+    
+- [Unboxings](https://www.youtube.com/playlist?list=PL-QYLnbz1Uu271w2yYfYir6PDv2Rho8ap) - TechnoBuffalo
+- [Reviews!](https://www.youtube.com/playlist?list=PLBsP89CPrMeNm71T5gYC6jebm9vPbLBiP) - Marques Brownlee
+- [Latest Uploads From TOT](https://www.youtube.com/playlist?list=PLIea1MeZnTD4BYdh6paL0Wa8SsXTJ6bjV) - Tech of Tomorrow
+- [The Mega Unbox Therapy Session](https://www.youtube.com/playlist?list=PL7u4lWXQ3wfI_7PgX0C-VTiwLeu0S4v34) - Unbox Therapy
+- [Unpacked](https://www.youtube.com/playlist?list=PLhOBXy8CSH6kc9m29nGSP9ivoFqmTzKkV) - NCIX Tech Tips
+- [Verge Reviews](https://www.youtube.com/playlist?list=PLB53D249E08E885D1) - The Verge
+- [Is It Worth It?](https://www.youtube.com/playlist?list=PL02HDVnTgIcrQWYv9O6eEiGcyhbsOo_0y) - Austin Evans
 
-- [Epic Rap Battles Of History - Complete Collection](https://www.youtube.com/playlist?list=PL96675BDF95286773) - ERB
+## How to
+
+*How to channal or playlist on youtube*
+
+- [eHow Crafts](https://www.youtube.com/playlist?list=PLdDFSP8QKxBe_Vhu0Rt5Z7PoEST4AkSpL) - eHow
+- [Cooking Panda](https://www.youtube.com/playlist?list=PLLALQuK1NDrhEHkNEWNa4f1kbpcpxWYmU) - Howcast
+- [Life Hacks](https://www.youtube.com/playlist?list=PLEE3089D7E78B9A63) - HouseholdHacker
+- [Kipkay Tips](https://www.youtube.com/playlist?list=PLtZ1WtnfAMwPOMBL_ET9KNvlywLIu5U5D) - kipkay
