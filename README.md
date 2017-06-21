@@ -12,10 +12,10 @@ Youtebe is awesome, but the category is too ambiguous. This is a curated list of
     - [Science](#science)
     - [Education](#education)
     - [Unboxings/Reviews](#unboxings/reviews)
-    - [How to](#howto)
+    - [How to](#how-to)
     - [Talkshow](#talkshow)
     - [Game](#game)
-    - [Scene drama](#scenedrame)
+    - [Scene drama](#scene-drame)
 
 ## Science
 
