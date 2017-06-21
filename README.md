@@ -195,8 +195,9 @@ Markiplier
 
 Please ensure your pull request adheres to the following guidelines:
 
-- Playlist > Channel > User, usually playlist have a more specific topic than channel
-- A Channel/User should not appear more than two times
+- Playlist > Channel > User, usually Playlist have a more specific topic than channel.
+- A Channel/User should not appear more than two times.
+- **Each category can have up to nine Playlist/Channel/User.**
 - Search previous one before making a new one, as yours may be a duplicate.
 - You can change the category name if you have better suggestion.
 - **Make an individual pull request for each suggestion.**
