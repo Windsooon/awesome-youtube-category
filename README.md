@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Windsooon/awesome-youtube/master/imgs/youtube.png">
 </p>
 
-# We are change this list from playlist to channel, So please visit www.youtubeclassified.com and submit the channel you love at bottom or create a new issue in this project.
+## We are change this list from playlist to channel, So please visit www.youtubeclassified.com and submit the channel you love at bottom or create a new issue in this project.
 
 Youtebe is awesome, but the category is too ambiguous. This is a curated list of youtube popular channel and playlist.
 
