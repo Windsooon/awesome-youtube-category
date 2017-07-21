@@ -68,6 +68,9 @@ Physics Girl
     - [Speed Arts 2017](https://www.youtube.com/playlist?list=PLFs4TpGOZiGc4dybCrKnmdRkdFCouh0ak) - CreativeStation
     - [⚗ Adobe Lightroom Tutorials](https://www.youtube.com/playlist?list=PLwnXQvUxjbNvdcx3WsRlMvyNXOgFtzlEI) - tutvid
 
+- **Tech**
+    - [Keith, the Coder](https://www.youtube.com/c/KeiththeCoder)
+    
 - **Makeup/Appearance**
     - [Yuya](https://www.youtube.com/channel/UCBNs31xysxpAGMheg8OrngA) - Yuya
     - [Hair Tips & Videos with HAIRFOOD](https://www.youtube.com/playlist?list=PLA8z-oagowOS8KhFNV-8yN_DsvFdiJMF0) - Howdini
